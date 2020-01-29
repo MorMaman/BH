@@ -1060,6 +1060,7 @@ header a:hover,.navbar-nav li a.active {
 .logo_dark,
 .v_light .logo_light {
 	display: none;
+	height:51px;
 }
 .v_light .logo_dark {
 	display: block;
