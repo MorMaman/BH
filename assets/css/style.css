@@ -118,6 +118,9 @@ section.small_pb {
 .list_none li {
 	list-style:none;
 }
+.list_none>li>a {
+	color: white;
+}
 input {
 	border: 0;
 	padding: 10px 20px;
